@@ -1,0 +1,10 @@
+Mouse_ID	Group	%Change_14	%Change_19	%Change_23	%Change_26
+C1-R	Control	100.00	215.75	617.58	648.73
+C1-RR	Control	100.00	804.76	2325.78	2890.24
+C1-L	Control	100.00	2062.13	3986.06	5320.25
+C1-LL	Control	100.00	912.29	2289.50	4419.27
+C1-RL	Control	100.00	433.53	1005.69	2086.72
+A1-R	Microbiota-depleted	100.00	181.71	487.28	707.94
+A1-RR	Microbiota-depleted	100.00	180.94	518.54	748.09
+A1-L	Microbiota-depleted	100.00	37.98	144.61	168.97
+A1-RL	Microbiota-depleted	100.00	136.28	330.01	519.40
